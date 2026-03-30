@@ -217,7 +217,8 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           future_carbs_4h \
           meal_days \
-          profiles
+          profiles \
+          basal_lock
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
